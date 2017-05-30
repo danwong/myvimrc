@@ -1,9 +1,3 @@
-"call plug#begin('~/.vim/plugged')
-"C syntax highlighting
-"Plug 'https://github.com/justinmk/vim-syntax-extra.git'
-
-"call plug#end()
-
 " Misc vim stuff
 set nocompatible
 set nomodeline
